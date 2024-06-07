@@ -1,11 +1,10 @@
 <div align="center"> 
 
-## Hi, there 👋
+## Hi, I'm Daye 👋
+
 e-커머스 플랫폼의 주문/결제 시스템 백엔드 개발을 담당하고 있습니다.
 
 PHP, Codeigniter, Laravel, Javascript, Jquery, MySQL, Python
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsangeun)](https://github.com/daye9005kim/daye9005kim)
 
 </div>
 <!--
