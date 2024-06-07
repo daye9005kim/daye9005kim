@@ -1,4 +1,13 @@
-## 안녕하세요. 👋
+<div align="center"> 
+
+## Hi, there 👋
+e-커머스 플랫폼의 주문/결제 시스템 백엔드 개발을 담당하고 있습니다.
+
+PHP, Codeigniter, Laravel, Javascript, Jquery, MySQL, Python
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsangeun)](https://github.com/daye9005kim/daye9005kim)
+
+</div>
 <!--
 **daye9005kim/daye9005kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=백엔드개발자)
