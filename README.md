@@ -4,7 +4,7 @@
 
 e-커머스 플랫폼의 주문/결제 시스템 개발을 담당하고 있습니다.
 
-PHP, Codeigniter, Laravel, Javascript, Jquery, MySQL, Python
+PHP, Codeigniter, Laravel, Javascript, React, Jquery, MySQL, Python
 
 </div>
 <!--
